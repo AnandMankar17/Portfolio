@@ -291,22 +291,6 @@ span .bar{
     line-height: 1.6;
     margin-bottom: 30px;
 }
-
-.contact form {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    max-width: 500px;
-    margin: auto;
-}
-
-.contact input, .contact textarea {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;
-}
-
 .contact .btn {
     background: #333;
     color: #fff;
